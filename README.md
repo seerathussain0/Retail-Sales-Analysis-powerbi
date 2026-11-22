@@ -12,7 +12,7 @@ The main objective is to transform raw retail data into meaningful business insi
 
 ![Retail Sales Analytics Dashboard](Dashboard.png)
 
-## 📈 Key Performance Indicators
+##  Key Performance Indicators
 
 | KPI | Value |
 |---|---|
@@ -41,7 +41,7 @@ November 2011 recorded approximately **£1.51M** in revenue.
 ###  Top Product by Quantity
 **Paper Craft, Little Birdie** recorded approximately **80,995 units** in the analyzed dataset.
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 - Microsoft Power BI
 - Python
